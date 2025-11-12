@@ -27,7 +27,7 @@
 
 ## 🖥️ 프론트엔드 (Frontend)
 
-> **📁 Repository:** [`8th-MyFavPhoto-FE`](https://github.com/your-org/8th-MyFavPhoto-FE)
+> **📁 Repository:** [`8th-MyFavPhoto-FE`](https://github.com/8th-MyFav/8th-MyFavPhoto-FE)
 
 ### ✨ 주요 기능
 - 🛒 **포토카드 마켓** – 원하는 포토카드를 검색, 판매 또는 교환 제안 가능  
@@ -47,7 +47,7 @@
 
 ### 🚀 실행 방법
 ```bash
-git clone https://github.com/your-org/8th-MyFavPhoto-FE.git
+git clone https://github.com/8th-MyFav/8th-MyFavPhoto-FE.git
 cd 8th-MyFavPhoto-FE
 npm install
 ```
@@ -55,7 +55,7 @@ npm install
 환경 변수 설정:
 
 ```env
-NEXT_PUBLIC_API_URL=https://your-backend-api-url.com
+NEXT_PUBLIC_API_URL=https://eightth-myfavphoto.onrender.com
 ```
 
 로컬 실행:
@@ -84,7 +84,7 @@ src/
 
 ## ⚙️ 백엔드 (Backend)
 
-> **📁 Repository:** [`8th-MyFavPhoto-BE`](https://github.com/your-org/8th-MyFavPhoto-BE)
+> **📁 Repository:** [`8th-MyFavPhoto-BE`](https://github.com/8th-MyFav/8th-MyFavPhoto-BE)
 
 ### ✨ 주요 기능
 
@@ -108,7 +108,7 @@ src/
 ### 🚀 실행 방법
 
 ```bash
-git clone https://github.com/your-org/8th-MyFavPhoto-BE.git
+git clone https://github.com/8th-MyFav/8th-MyFavPhoto-BE.git
 cd 8th-MyFavPhoto-BE
 npm install
 ```
